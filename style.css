@@ -1,0 +1,18 @@
+.menu {
+position: absolute;
+            top: 270px;
+            right: 10px;
+            width: 200px;             
+            background-color:gold;
+            color: white;
+            padding: 10px;
+        }
+        .menu a {
+            color: black;
+            text-decoration:underline;
+            display: block;
+            padding: 10px 0;
+        }
+        .menu a:hover {
+            background-color: #575757;
+        }
